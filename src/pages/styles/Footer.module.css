@@ -1,0 +1,8 @@
+footer {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+pre {
+    font-family: 'CodeNewRoman NFM', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
